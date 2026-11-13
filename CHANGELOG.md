@@ -7,15 +7,19 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+### Changed
+
+- Updated PHPUnit to version 12
+
 ## [1.0.2] - 2026-01-07
 
-## Fixed
+### Fixed
 
 - Added missing Symfony dependencies for Behat
 
 ## [1.0.1] - 2026-01-06
 
-## Fixed
+### Fixed
 
 - Added missing Behat dependencies
 
