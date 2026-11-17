@@ -4,7 +4,7 @@
     "type": "metapackage",
     "license": "GPL-3.0-or-later",
     "require": {
-        "moodle/lms": "^5.1-",
+        "moodle/lms": "^5.1 || ^6.0",
         "behat/behat": "^3",
         "behat/mink": "^1.11.0",
         "behat/mink-browserkit-driver": "^2.2.0",
