@@ -7,6 +7,8 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-11.17
+
 ### Changed
 
 - Widened the `moodle/lms` requirement to `^5.1 || ^6.0` to support Moodle 6.0
