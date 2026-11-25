@@ -7,6 +7,8 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+## [2.0.0] - 2026-11-25
+
 ### Changed
 
 - Updated PHPUnit to version 12
